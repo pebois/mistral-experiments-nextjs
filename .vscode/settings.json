@@ -1,0 +1,19 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.codeActionsOnSave": [
+    "source.removeUnusedImports",
+    "source.organizeImports",
+    "source.fixAll"
+  ],
+  "files.watcherExclude": {
+    "**/.next": true,
+    ".eslintcache": true
+  },
+  "search.exclude": {
+    "**/.next": true,
+    ".eslintcache": true
+  },
+  "eslint.format.enable": true
+}
